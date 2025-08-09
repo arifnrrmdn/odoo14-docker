@@ -57,9 +57,10 @@ Panduan ini menjelaskan langkah-langkah untuk melakukan setup lingkungan pengemb
 - **PostgreSQL** berjalan di container terpisah dan terhubung dengan Odoo.
 
 ## **Screenshot**
-![](https://github.com/arifnrrmdn/odoo14-docker/blob/main/images/1.png)
-![](https://github.com/arifnrrmdn/odoo14-docker/blob/main/images/2.png)
-![](https://github.com/arifnrrmdn/odoo14-docker/blob/main/images/3.png)
+![](https://github.com/arifnrrmdn/odoo14-docker/blob/main/screenshot/1.png)
+![](https://github.com/arifnrrmdn/odoo14-docker/blob/main/screenshot/2.png)
+![](https://github.com/arifnrrmdn/odoo14-docker/blob/main/screenshot/3.png)
+
   
 ## **Kesimpulan**
 Dengan menggunakan Docker versi **27.5.1** dan Docker Compose versi **1.29.2**, pengaturan **Odoo 12** dapat dilakukan dengan lancar di lingkungan pengembangan berbasis WSL 2. Konfigurasi ini menyediakan cara yang efisien dan mudah untuk menjalankan Odoo dalam container terisolasi.
@@ -71,3 +72,4 @@ Dengan menggunakan Docker versi **27.5.1** dan Docker Compose versi **1.29.2**, 
 
 
 ---
+
